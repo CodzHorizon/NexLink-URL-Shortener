@@ -17,7 +17,16 @@ NexLink is a modern, user-friendly URL shortening service that makes sharing, tr
 
 ## 📸 Screenshots
 
-> _Replace the below with your actual screenshots (add images to the `Images/` folder and update the paths accordingly)._
+### Desktop View
+![image](https://github.com/user-attachments/assets/60edcd59-f3d9-4a44-9af5-8e16bc53325a)
+
+![image](https://github.com/user-attachments/assets/c47c3311-efc1-4666-a6aa-783627a80591)
+
+### Mobile View
+
+![image](https://github.com/user-attachments/assets/c6b19676-ed89-449f-ad2a-3fe5a924638a)
+
+![image](https://github.com/user-attachments/assets/db7d3e47-c68d-45f6-aa26-58822b9fc24a)
 
 ## 🚀 Getting Started
 
@@ -32,6 +41,25 @@ NexLink is a modern, user-friendly URL shortening service that makes sharing, tr
    ```sh
    git clone https://github.com/CodzHorizon/NexLink.git
    cd NexLink
+
+--
+2. **Install dependencies:**
+   ```sh
+   npm install
+   # or
+   yarn install
+
+--
+3. **Start the development server:**
+   ```sh
+   npm run dev
+   # or
+   yarn dev
+
+--
+4. **Open your browser:**
+   ```sh
+  Visit http://localhost:3000 to see NexLink in action.
 
 --
 
