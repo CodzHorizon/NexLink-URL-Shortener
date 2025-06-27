@@ -43,26 +43,28 @@ NexLink is a modern, user-friendly URL shortening service that makes sharing, tr
    cd NexLink
 
 --
+
 2. **Install dependencies:**
 
    npm install
-   # or
+   or
    yarn install
 
-----
+--
+ 
 3. **Start the development server:**
 
    npm run dev
-   # or
+   or
    yarn dev
 
 --
+
 4. **Open your browser:**
    
   Visit http://localhost:3000 to see NexLink in action.
 
 --
-
 
 ## 👨‍💻 Author
   
