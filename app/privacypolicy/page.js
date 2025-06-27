@@ -1,6 +1,6 @@
 import React from 'react'
 
-const page = () => {
+const privacypolicy = () => {
     return (
         <div>
             <main className="px-6 sm:px-10 md:px-20 lg:px-40 flex flex-1 justify-center py-8 sm:py-12">
@@ -11,15 +11,16 @@ const page = () => {
                     </div>
                     <section className="space-y-3 px-4">
                         <p className="text-[var(--text-primary)] text-base font-normal leading-relaxed">
-                            This Privacy Policy describes how NexLink ("we," "us," or "our") collects, uses, and shares information about you when you use our website and services (collectively, the "Services"). We are committed to protecting
+                            This Privacy Policy describes how NexLink (&apos;we,&apos; &apos;us,&apos; or &apos;our&apos;) collects, uses, and shares information about you when you use our website and services (collectively, the &apos;Services&apos;). We are committed to protecting
                             your privacy and ensuring that your personal information is handled responsibly.
                         </p>
                     </section>
                     <section className="space-y-3 px-4">
                         <h2 className="text-[var(--text-primary)] text-xl sm:text-2xl font-semibold leading-tight tracking-tight">Information We Collect</h2>
+
                         <p className="text-[var(--text-primary)] text-base font-normal leading-relaxed">
-                            We collect information you provide directly to us, such as when you create an account, shorten a URL, or contact us for support. This may include your email address,
-                            the original URLs you shorten, and any other information you choose to provide. We also automatically collect certain information when you use our Services, such as your IP address, browser type, operating system, and usage details.
+                            We may update this Privacy Policy from time to time. We will notify you of any significant changes by posting the new policy on our website and updating the &apos;Last updated&apos; date. Your continued use of our
+                            Services after any changes indicates your acceptance of the updated policy. We encourage you to review this policy periodically.
                         </p>
                     </section>
                     <section className="space-y-3 px-4">
@@ -52,7 +53,7 @@ const page = () => {
                     <section className="space-y-3 px-4">
                         <h2 className="text-[var(--text-primary)] text-xl sm:text-2xl font-semibold leading-tight tracking-tight">Changes to This Policy</h2>
                         <p className="text-[var(--text-primary)] text-base font-normal leading-relaxed">
-                            We may update this Privacy Policy from time to time. We will notify you of any significant changes by posting the new policy on our website and updating the "Last updated" date. Your continued use of our
+                            We may update this Privacy Policy from time to time. We will notify you of any significant changes by posting the new policy on our website and updating the 'Last updated' date. Your continued use of our
                             Services after any changes indicates your acceptance of the updated policy. We encourage you to review this policy periodically.
                         </p>
                     </section>
@@ -60,7 +61,7 @@ const page = () => {
                         <h2 className="text-[var(--text-primary)] text-xl sm:text-2xl font-semibold leading-tight tracking-tight">Contact Us</h2>
                         <p className="text-[var(--text-primary)] text-base font-normal leading-relaxed">
                             If you have any questions, concerns, or requests regarding this Privacy Policy or our privacy practices, please contact us at:
-                            <a className="text-[var(--primary-color)] hover:underline" href="mailto:privacy@NexLink.com">privacy@NexLink.com</a>.
+                            <a className="text-[var(--primary-color)] hover:underline" href="mailto:kshitizsh.8@gmail.com">kshitizsh.8@gmail.com</a>.
                         </p>
                     </section>
                 </div>
@@ -69,4 +70,4 @@ const page = () => {
     )
 }
 
-export default page
+export default privacypolicy

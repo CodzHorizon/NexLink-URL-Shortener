@@ -11,7 +11,7 @@ const Contact = () => {
                         <div className="text-center mb-10">
                             <h2 className="text-3xl sm:text-4xl font-bold text-[var(--text-primary)] tracking-tight">Get in Touch</h2>
                             <p className="mt-3 text-base sm:text-lg text-[var(--text-secondary)]">
-                                We'd love to hear from you! Whether you have a question, feedback, or just want to say hello, feel free to reach out.
+                                We&apos;d love to hear from you! Whether you have a question, feedback, or just want to say hello, feel free to reach out.
                             </p>
                         </div>
                         <form className="grid grid-cols-1 gap-y-6">
