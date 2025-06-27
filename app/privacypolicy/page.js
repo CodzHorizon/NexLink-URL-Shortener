@@ -11,7 +11,7 @@ const privacypolicy = () => {
                     </div>
                     <section className="space-y-3 px-4">
                         <p className="text-[var(--text-primary)] text-base font-normal leading-relaxed">
-                            This Privacy Policy describes how NexLink (&apos;we,&apos; &apos;us,&apos; or &apos;our&apos;) collects, uses, and shares information about you when you use our website and services (collectively, the &apos;Services&apos;). We are committed to protecting
+                            This Privacy Policy describes how NexLink ('we,' 'us,' or 'our') collects, uses, and shares information about you when you use our website and services (collectively, the 'Services'). We are committed to protecting
                             your privacy and ensuring that your personal information is handled responsibly.
                         </p>
                     </section>
@@ -53,8 +53,8 @@ const privacypolicy = () => {
                     <section className="space-y-3 px-4">
                         <h2 className="text-[var(--text-primary)] text-xl sm:text-2xl font-semibold leading-tight tracking-tight">Changes to This Policy</h2>
                         <p className="text-[var(--text-primary)] text-base font-normal leading-relaxed">
-                            We may update this Privacy Policy from time to time. We will notify you of any significant changes by posting the new policy on our website and updating the 'Last updated' date. Your continued use of our
-                            Services after any changes indicates your acceptance of the updated policy. We encourage you to review this policy periodically.
+                            This Privacy Policy describes how NexLink (&apos;we,&apos; &apos;us,&apos; or &apos;our&apos;) collects, uses, and shares information about you when you use our website and services (collectively, the &apos;Services&apos;). We are committed to protecting
+                            your privacy and ensuring that your personal information is handled responsibly.
                         </p>
                     </section>
                     <section className="space-y-3 px-4">
