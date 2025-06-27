@@ -38,32 +38,32 @@ NexLink is a modern, user-friendly URL shortening service that makes sharing, tr
 ### Installation
 
 1. **Clone the repository:**
-
-   git clone https://github.com/CodzHorizon/NexLink.git
+```sh
+   git clone respository
    cd NexLink
-
+```
 --
 
 2. **Install dependencies:**
-
+```sh
    npm install
-   or
+   # or
    yarn install
-
+```
 --
  
 3. **Start the development server:**
-
+```sh
    npm run dev
-   or
+   # or
    yarn dev
-
+```
 --
 
 4. **Open your browser:**
-   
+ ```sh
   Visit http://localhost:3000 to see NexLink in action.
-
+```
 --
 
 ## 👨‍💻 Author
