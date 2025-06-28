@@ -11,7 +11,7 @@ const privacypolicy = () => {
                     </div>
                     <section className="space-y-3 px-4">
                         <p className="text-[var(--text-primary)] text-base font-normal leading-relaxed">
-                            This Privacy Policy describes how NexLink ('we,' 'us,' or 'our') collects, uses, and shares information about you when you use our website and services (collectively, the 'Services'). We are committed to protecting
+                            This Privacy Policy describes howNexLink (&apos;we,&apos; &apos;us,&apos; or &apos;our&apos;) collects, uses, and shares information about you when you use our website and services (collectively, the &apos;Services&apos;). We are committed to protecting
                             your privacy and ensuring that your personal information is handled responsibly.
                         </p>
                     </section>
