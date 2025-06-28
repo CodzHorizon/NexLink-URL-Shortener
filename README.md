@@ -26,8 +26,6 @@ NexLink is a modern, user-friendly URL shortening service that makes sharing, tr
 
 ![image](https://github.com/user-attachments/assets/c6b19676-ed89-449f-ad2a-3fe5a924638a)
 
-![image](https://github.com/user-attachments/assets/db7d3e47-c68d-45f6-aa26-58822b9fc24a)
-
 ## 🚀 Getting Started
 
 ### Prerequisites
