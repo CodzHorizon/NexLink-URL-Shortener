@@ -16,6 +16,9 @@ const geistMono = Geist_Mono({
 export const metadata = {
   title: "NexLink - Your trusted URL Shortener",
   description: "Shorten Your URL easily with NexLink",
+   icons: {
+    icon: "/image.png",             // default favicon
+  },
 };
 
 export default function RootLayout({ children }) {
